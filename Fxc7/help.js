@@ -5,10 +5,10 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 \`\`\`Github Me https://github.com/ZakiGans\`\`\`
 
 
-\`\`\`Owmer:wa.me/083144780782\`\`\`
+\`\`\`Owmer:wa.me/082292119677\`\`\`
 
 
-\`\`\`NameOwner :ZakiGans\`\`\`
+\`\`\`NameOwner :SherlockHolmes\`\`\`
 
 
 
@@ -349,7 +349,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ╭─────「 *THANKS TO* 」
 ┴
 │➲ *SadBoy Team*
-│➲ *M.ZakiGans
+│➲ *SherlockHolmes
 ┬
 ╰────────────────────────`
 }
@@ -382,17 +382,17 @@ const donasi = (name) => {
 	return `       
 ╭─────「 *DONASI SEIKHLASNYA* 」
 ┴
-│√ *PULSA: 083144780782*
-│√ *OVO : 08311800241*
+│√ *PULSA: 085157339602*
+│√ 
 │
 │\`\`\`Pulsa\`\`\`
 │ *15k Invite Bot Ke Grup selama 1 bulan*
 │
-│\`\`\`OVO\`\`\`
-│ *10k Invite Bot Ke Group Selama 1 Bulan*
-│ *Tutor Buat Bot Sendiri? 5k
+│
+│ 
+│ 
 ┬
-╰──────「 *ZakiGans* 」
+╰──────「 *SherlockHolmes* 」
 
 Untuk Kelangsungan Hidup Bot Karna Kuota Mahal:'
 `
