@@ -51,7 +51,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 ❍【♡ۣۜۜ፝͜͜͡͡✿➣ *DONASI*
 ❍━━━━━━━━━━━━━━━━━━❍
 *Sekali² Donasi Lah bwang Jan Make Bot Mulu Kgk Donasi*
-├ ♡ۣۜۜ፝͜͜͡͡✿➤ *Pulsa Axis 083144780782*
+├ ♡ۣۜۜ፝͜͜͡͡✿➤ *Pulsa 085157339602*
 
 
 ͏͏͏͏͏͏͏͏͏͏͏͏͏͏╭──────「 *MEDIA DOWNLOADER* 」
