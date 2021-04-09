@@ -5,7 +5,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 \`\`\`Github Me https://github.com/ZakiGans\`\`\`
 
 
-\`\`\`Owmer:wa.me/083144780782\`\`\`
+\`\`\`Owmer:wa.me/083144780781\`\`\`
 
 
 \`\`\`NameOwner :ZakiGans\`\`\`
